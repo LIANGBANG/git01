@@ -1,4 +1,1 @@
-3. �����ļ����ύ,ͬ��Ŀ¼����
-����һ���ļ�(��Ҫ�ǿ��ļ�), readme.txt
-���� git add readme.txt
-�ύ git commit readme.txt -m ע��
+gitHub是一个面向开源及私有软件项目的托管平台，因为只支持git 作为唯一的版本库格式进行托管，故名gitHub。
