@@ -4,3 +4,4 @@
 4）$ git push -u origin master，把本地库推送到远程库上。由于远程库是空的，我 们第一次推送 master 分支时，加上了-u 参数，Git 不但会把本地的 master 分支内容 推送的远程新的 master 分支，还会把本地的 master 分支和远程的 master 分支关联 起来，在以后的推送或者拉取时就可以简化命令
  5）以后提交只用写，$ git push origin master
  6）克隆远程库，$ git clone git@github.com:<your github programe address>.git
+gitHub鏄竴涓潰鍚戝紑婧愬強绉佹湁杞欢椤圭洰鐨勬墭绠″钩鍙帮紝鍥犱负鍙敮鎸乬it 浣滀负鍞竴鐨勭増鏈簱鏍煎紡杩涜鎵樼锛屾晠鍚峠itHub銆?
